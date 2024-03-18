@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+
+<head>
+    <title> Silvère Moon-Gangloff </title>
+<link href="style.css" rel="stylesheet" media="all" type="text/css"> 
+<link rel="icon" type="image/jpg" href="images/image10.jpg" />
+<link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="menu2.css">
+    
+          
+    
+	
+	
+    
+  
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+  
+        
+    
+    
+    
+     
+    
+    
+    
+     
+    
+    
+    
+    
+<link rel="stylesheet" href="Smallindex.css">
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="Smallindex.js"></script>
+
+</head>
+
+<html>
+    <!-- background-size:cover -->
+
+	
+	  
+
+<body id="background" onload="clock()" class="class_1">
+	
+	
+ <div id="counter" class="class_2">0</div>    	
+    
+    <div class="svg-container class_3" id="horloge"> <svg viewBox="0 0 300 300" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" class="svg-content clock">
+            
+            <circle fill="#be996b" cx="150" cy="150" r="150"/>
+            
+            <circle fill="#35301e" cx="150" cy="150" r="142.5"/>
+            <circle fill="#e1d5bd" cx="150" cy="150" r="135"/>
+            
+            
+            <circle fill="#35301e" cx="150" cy="150" r="75"/>
+            
+            <circle fill="none" cx="150" cy="150" r="133.5" stroke-width="0.5px" stroke="#35301e"/>
+            
+            <circle fill="none" cx="150" cy="150" r="126" stroke-width="0.5px" stroke="#35301e"/>
+            <circle fill="none" cx="150" cy="150" r="124" stroke-width="0.5px" stroke="#35301e"/>
+            
+            <text x="140" y="185" fontsize="10px" fill="#d1c893" class="class_4"> 1811 </text>
+            
+            <text x="132.5" y="135" fontsize="12px" fill="#d1c893" class="class_4"> PARIS </text>
+           
+            

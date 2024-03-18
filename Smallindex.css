@@ -1,0 +1,29 @@
+#main{width:100%;display:flex;justify-content:space-between;}
+
+.transparent{fill-opacity:0.25;}
+
+#lampe:hover{	cursor:pointer;		}
+
+#map{max-width:100%;max-height:100%;}
+
+#mappath{fill:#86AAE0;stroke:#FFFFFF;stroke-width:0.6;transition:fill0.2s,stroke0.3s;}
+
+#mappath:hover{fill-opacity:0.5;}
+
+#map.separator{stroke:#ccc;fill:none;stroke-width:1.5;}
+
+#map.separator:hover{stroke:#ccc;fill:none;}
+
+#thumbnail:hover{cursor:pointer;}
+
+body{background-image:url('images/sun.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;}
+
+
+
+.class_1{filter:brightness(1)}
+
+.class_2{display:none}
+
+.class_3{position:absolute;top:calc(100vw * 0.015);left:calc(100vw * 0.015);height:calc(100vw * 0.144);width:calc(100vw * 0.144)}
+
+.class_4{font-weight:100}
